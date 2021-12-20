@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative bakery landing page
+
+• Stack: HTML5, SASS, BEM methodology, JavaScript, DOM.\
+• Fully responsive layout was made by using CSS Grid and Flexbox (mobiles, tablets, laptops, high screens).\
+• Click to the link to see [DEMO LINK](https://workacccom.github.io/Creative-bakery_landing-page/)
